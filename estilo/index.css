@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(16, 102, 16);
+    text-align: center;
+    color: white;
+}
+.titulo{
+    background-color: yellow;
+    height: 80px;
+    color: blue;
+}
+
+#cep,#rua,#bairro,#cidade,#uf {
+    background-color: yellow;
+}
